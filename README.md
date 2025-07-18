@@ -66,7 +66,8 @@ This beginner-friendly machine learning project shows how to build an end-to-end
 
 ⭐ *If you like this project, follow for more awesome machine learning content!*
 
-_______________________________________________________________________________________[Project 2 README]_______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 2 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 # 🧬 Project 2: Diabetes Prediction using Machine Learning | End-to-End ML Project 💻🩺
 
@@ -134,7 +135,8 @@ Early detection of diabetes is a **critical health priority**. This model serves
 
 ⭐ *Keep exploring more ML applications in healthcare and beyond!*  
 
-_______________________________________________________________________________________[Project 3 README]_______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 3 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 Here is the full README for Project 3: 🏠 Boston House Price Prediction using Machine Learning in Python – written in attractive and detailed style with emoji and extended description:
 
@@ -186,7 +188,8 @@ Trained a **Linear Regression** model on the dataset.
 Evaluated using **R² Score** to measure prediction accuracy.
 
 
-_______________________________________________________________________________________[Project 4 README]_______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 4 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 📰 Project 4: Fake News Detection using Machine Learning with Python
 ✨ Project Overview:
@@ -237,7 +240,8 @@ Trained a **Linear Regression** model on the dataset.
 Evaluated using **R² Score** to measure prediction accuracy.
 
 
-_______________________________________________________________________________________[Project 5 README]_______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 5 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 🏦 Project 5: Loan Status Prediction using Machine Learning with Python
 ✨ Project Overview:
@@ -323,7 +327,8 @@ Includes features like:
 🏁 End Result:
 A reliable and efficient ML model 🤖 that predicts Loan Approval Status based on applicant data — making lending smarter, faster, and safer 💳🏦🚀.
 
-_______________________________________________________________________________________[Project 6 README]_______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 6 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 🍷 Project 6: Wine Quality Prediction using Machine Learning with Python
 🌟 Project Overview:
@@ -405,7 +410,8 @@ This project brings AI into the winemaking and testing process by providing a da
 🏁 End Result:
 A high-accuracy 🏆 Machine Learning model that can predict the quality of red wine just by analyzing its chemical composition — blending the art of winemaking with the science of machine learning 🍇🔬🍷.
 
-_______________________________________________________________________________________[Project 7 README]_______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 7 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 🚗 Project 7: Car Price Prediction using Machine Learning with Python
 📘 Overview:
@@ -490,7 +496,8 @@ Buying or selling a car? 🤔 Pricing it right is a challenge — too high and n
 🏁 Final Result:
 This project delivers a data-driven, ML-powered car price predictor — an effective tool that learns from past car listings and predicts fair resale values. Whether you're building an app, working on a portfolio, or starting your ML journey, this project offers deep insights into real-world regression problems. 🚗📉📈
 
-_______________________________________________________________________________________[Project 8 README]_______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 8 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 🪙 Project 8: Gold Price Prediction using Machine Learning with Python
 📘 Overview:
@@ -577,7 +584,7 @@ This project successfully builds a highly accurate ML model (98%) that predicts 
 
 💬 “Shine like gold, code like Python!” 💛🐍
 
-_______________________________________________________________________________________[Project 9 README]_______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 9 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ❤️ Project 9: Heart Disease Prediction using Machine Learning with Python
 📘 Overview:
@@ -630,7 +637,8 @@ This project presents a meaningful and well-performing heart disease prediction 
 
 💬 “Prevention is better than cure — especially when Python is your stethoscope!” 🐍❤️
 
-_______________________________________________________________________________________[Project 10 README]______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 10 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 💳 Project 10: Credit Card Fraud Detection using Machine Learning with Python
 📘 Overview:
@@ -711,7 +719,8 @@ This project proves how machine learning can secure digital transactions using i
 
 💬 “Catch the fraud before it costs a fortune — powered by Python & Machine Learning!” 🧠💸
 
-_______________________________________________________________________________________[Project 11 README]______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 11 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 🏥 Project 11: Medical Insurance Cost Prediction using Machine Learning with Python
 📘 Overview:
@@ -797,7 +806,8 @@ This ML model gives a strong estimate of insurance costs, helping various sector
 
 💬 “Healthcare is not cheap — but smart predictions can make it affordable!” 🧠💰
 
-_______________________________________________________________________________________[Project 12 1README]_____________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 12 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 🛍️ Project 12: Big Mart Sales Prediction using Machine Learning with Python
 📘 Overview:
@@ -876,7 +886,8 @@ This project shows how data science can revolutionize retail sales 📦. By pred
 
 💬 "When you predict right, you sell smart!" 🧠🛒📈
 
-_______________________________________________________________________________________[Project 13 README]______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 13 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 🧠 Project 13: Customer Segmentation using Machine Learning in Python
 📌 Overview:
@@ -933,7 +944,8 @@ Successfully segmented customers with meaningful patterns. Businesses can now:
 🔚 Conclusion:
 This clustering-based segmentation model gives actionable customer insights. By understanding who your customers are and how they behave, you can build stronger, smarter, and more profitable relationships 🤝📈
 
-_______________________________________________________________________________________[Project 14 README]______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 14 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 
 🧠 Project 14: Parkinson’s Disease Detection using Machine Learning in Python
@@ -985,7 +997,8 @@ To develop an accurate predictive model that can classify whether a person has P
 
 🔚 Conclusion:
 This project demonstrates the power of machine learning in healthcare diagnosis. With just voice input and trained models, we can provide early indications of Parkinson’s, saving time and potentially lives ❤️📈
-_______________________________________________________________________________________[Project 15_README]______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 15 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 🚢 Project 15: Titanic Survival Prediction using Machine Learning in Python
 📌 Overview:
@@ -1034,7 +1047,8 @@ To build a model that can accurately predict survival using historical passenger
 🔚 Conclusion:
 This project teaches end-to-end ML pipeline including preprocessing, modeling, and evaluation. It’s a must-do for beginners and a great way to learn data science basics with a historical twist 🚢📘
 
-_______________________________________________________________________________________[Project_16 README]______________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 16 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ChatGPT said:
 Here's a professional, emoji-rich, and detailed README for:
@@ -1103,7 +1117,8 @@ This project bridges fitness & machine learning, demonstrating real-world usage 
 
 Let me know if you'd like a ZIP folder structure suggestion or ready-to-copy description for GitHub repository too!
 
-_______________________________________________________________________________________[ML Projects Summary]____________________________________________________________________________________________________
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- ML Projects Summary -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 1. ✅ML Projects Summary
 SONAR Rock vs Mine Classification
@@ -1170,7 +1185,7 @@ SONAR Rock vs Mine Classification
 🔥 Estimates calories burnt using physical activity data.
 🎯 Accuracy: 88%
 
-________________________________________________________________________________________________________________________________________________________________________________________________________________
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 🙏 Thank You!
 Thank you for exploring my collection of 16 Machine Learning projects! 💻✨
@@ -1181,7 +1196,6 @@ Your time and interest truly mean a lot. If you found this work helpful, inspiri
 Stay curious. Keep building.
 — Kartvaya
 
-________________________________________________________________________________________________________________________________________________________________________________________________________________
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
