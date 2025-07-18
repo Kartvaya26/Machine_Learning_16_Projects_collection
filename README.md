@@ -719,7 +719,7 @@ This project proves how machine learning can secure digital transactions using i
 
 💬 “Catch the fraud before it costs a fortune — powered by Python & Machine Learning!” 🧠💸
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 11 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 11 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 🏥 Project 11: Medical Insurance Cost Prediction using Machine Learning with Python
@@ -806,7 +806,7 @@ This ML model gives a strong estimate of insurance costs, helping various sector
 
 💬 “Healthcare is not cheap — but smart predictions can make it affordable!” 🧠💰
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 12 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 12 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 🛍️ Project 12: Big Mart Sales Prediction using Machine Learning with Python
@@ -886,7 +886,7 @@ This project shows how data science can revolutionize retail sales 📦. By pred
 
 💬 "When you predict right, you sell smart!" 🧠🛒📈
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 13 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 13 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 🧠 Project 13: Customer Segmentation using Machine Learning in Python
@@ -944,7 +944,7 @@ Successfully segmented customers with meaningful patterns. Businesses can now:
 🔚 Conclusion:
 This clustering-based segmentation model gives actionable customer insights. By understanding who your customers are and how they behave, you can build stronger, smarter, and more profitable relationships 🤝📈
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 14 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 14 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 
@@ -997,7 +997,7 @@ To develop an accurate predictive model that can classify whether a person has P
 
 🔚 Conclusion:
 This project demonstrates the power of machine learning in healthcare diagnosis. With just voice input and trained models, we can provide early indications of Parkinson’s, saving time and potentially lives ❤️📈
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 15 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 15 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 🚢 Project 15: Titanic Survival Prediction using Machine Learning in Python
@@ -1047,7 +1047,7 @@ To build a model that can accurately predict survival using historical passenger
 🔚 Conclusion:
 This project teaches end-to-end ML pipeline including preprocessing, modeling, and evaluation. It’s a must-do for beginners and a great way to learn data science basics with a historical twist 🚢📘
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 16 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 16 README -}]::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ChatGPT said:
@@ -1117,7 +1117,7 @@ This project bridges fitness & machine learning, demonstrating real-world usage 
 
 Let me know if you'd like a ZIP folder structure suggestion or ready-to-copy description for GitHub repository too!
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- ML Projects Summary -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- ML Projects Summary -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 1. ✅ML Projects Summary
