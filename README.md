@@ -996,8 +996,9 @@ To develop an accurate predictive model that can classify whether a person has P
 • Suitable for integration into basic diagnostic systems for early detection systems 🧪🩺
 
 🔚 Conclusion:
-This project demonstrates the power of machine learning in healthcare diagnosis. With just voice input and trained models, we can provide early indications of Parkinson’s, saving time and potentially lives ❤️📈
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 15 README -}]::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+This project demonstrates the power of machine learning in healthcare diagnosis. With just voice input and trained models, we can provide early indications of Parkinson’s, saving time and potentially lives ❤️
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 15 README -}]::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 🚢 Project 15: Titanic Survival Prediction using Machine Learning in Python
