@@ -2,6 +2,8 @@ ________________________________________________________________________________
 
 This collection of 16 Machine Learning projects covers a wide range of real-world applications: from classifying SONAR signals to detect rocks or mines, estimating house and car prices, detecting fake news and heart disease, to predicting loan approval, wine quality, and gold prices. It also includes identifying credit card fraud, forecasting Big Mart sales, predicting medical insurance charges and calories burnt, segmenting customers using clustering, and detecting Parkinson's disease. Lastly, it features Titanic survival prediction — all built with Python and essential ML algorithms in end-to-end fashion.
 
+Total available accuracy scores (16 projects)
+📌 Average = 1244 / 15 ≈ 82.93%
 _______________________________________________________________________________________[Project 1 README]_______________________________________________________________________________________________________
 
 # 🎯 Project 1: SONAR Rock vs Mine Prediction using Machine Learning | End-to-End ML Project 🧠💻
