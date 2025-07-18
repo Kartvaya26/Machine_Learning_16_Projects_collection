@@ -637,7 +637,7 @@ This project presents a meaningful and well-performing heart disease prediction 
 
 💬 “Prevention is better than cure — especially when Python is your stethoscope!” 🐍❤️
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 10 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 10 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 💳 Project 10: Credit Card Fraud Detection using Machine Learning with Python
@@ -1047,7 +1047,7 @@ To build a model that can accurately predict survival using historical passenger
 🔚 Conclusion:
 This project teaches end-to-end ML pipeline including preprocessing, modeling, and evaluation. It’s a must-do for beginners and a great way to learn data science basics with a historical twist 🚢📘
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 16 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::[{- PROJECT 16 README -}]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ChatGPT said:
